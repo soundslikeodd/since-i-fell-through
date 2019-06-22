@@ -1,15 +1,13 @@
 {
-  "files": {
-    "main.css": "/since-i-fell-through/static/css/main.b92f8bc9.chunk.css",
-    "main.js": "/since-i-fell-through/static/js/main.620b196f.chunk.js",
-    "main.js.map": "/since-i-fell-through/static/js/main.620b196f.chunk.js.map",
-    "runtime~main.js": "/since-i-fell-through/static/js/runtime~main.1ad620dd.js",
-    "runtime~main.js.map": "/since-i-fell-through/static/js/runtime~main.1ad620dd.js.map",
-    "static/js/2.e2d8d1c5.chunk.js": "/since-i-fell-through/static/js/2.e2d8d1c5.chunk.js",
-    "static/js/2.e2d8d1c5.chunk.js.map": "/since-i-fell-through/static/js/2.e2d8d1c5.chunk.js.map",
-    "index.html": "/since-i-fell-through/index.html",
-    "precache-manifest.09425f34743d3295ffec55ab94242245.js": "/since-i-fell-through/precache-manifest.09425f34743d3295ffec55ab94242245.js",
-    "service-worker.js": "/since-i-fell-through/service-worker.js",
-    "static/css/main.b92f8bc9.chunk.css.map": "/since-i-fell-through/static/css/main.b92f8bc9.chunk.css.map"
-  }
+  "main.css": "/since-i-fell-through/static/css/main.053526c0.chunk.css",
+  "main.js": "/since-i-fell-through/static/js/main.3f908376.chunk.js",
+  "main.js.map": "/since-i-fell-through/static/js/main.3f908376.chunk.js.map",
+  "runtime~main.js": "/since-i-fell-through/static/js/runtime~main.1714acf2.js",
+  "runtime~main.js.map": "/since-i-fell-through/static/js/runtime~main.1714acf2.js.map",
+  "static/js/2.5a1799c0.chunk.js": "/since-i-fell-through/static/js/2.5a1799c0.chunk.js",
+  "static/js/2.5a1799c0.chunk.js.map": "/since-i-fell-through/static/js/2.5a1799c0.chunk.js.map",
+  "index.html": "/since-i-fell-through/index.html",
+  "precache-manifest.9dc2cd99150a2c3a2199e42052746fae.js": "/since-i-fell-through/precache-manifest.9dc2cd99150a2c3a2199e42052746fae.js",
+  "service-worker.js": "/since-i-fell-through/service-worker.js",
+  "static/css/main.053526c0.chunk.css.map": "/since-i-fell-through/static/css/main.053526c0.chunk.css.map"
 }
